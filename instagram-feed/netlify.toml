@@ -1,5 +1,5 @@
 [functions]
-  directory = "netlify/functions"
+  directory = "instagram-feed/netlify/functions"
   node_bundler = "esbuild"
 
 # (не обов’язково)
